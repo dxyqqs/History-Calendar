@@ -1,0 +1,24 @@
+{
+  "name": "history-calendar",
+  "version": "0.0.1",
+  "description": "none",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxyqqs/History-Calendar.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dxyqqs/History-Calendar/issues"
+  },
+  "homepage": "https://github.com/dxyqqs/History-Calendar#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}

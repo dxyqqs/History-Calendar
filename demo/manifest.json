@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "name": "History Calendar",
+  "permissions": [
+    "history"
+  ],
+  "browser_action": {
+    "default_icon": "assets/browser_action.png",
+    "default_title": "History Calendar",
+    "default_popup": "popup/index.html"
+  },
+  "icons":{
+    "16": "assets/icon16.png",             
+    "48": "assets/icon48.png",            
+    "128": "assets/icon128.png" 
+  },
+  "background":{
+    "page": "background/index.html"
+  }
+}
